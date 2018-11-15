@@ -1,3 +1,12 @@
+<!-- default file list -->
+*Files to look at*:
+
+* [GridData.cs](./CS/App_Code/GridData.cs) (VB: [GridData.vb](./VB/App_Code/GridData.vb))
+* [GridDataHelper.cs](./CS/App_Code/GridDataHelper.cs) (VB: [GridDataHelper.vb](./VB/App_Code/GridDataHelper.vb))
+* [TimeZoneDataHelper.cs](./CS/App_Code/TimeZoneDataHelper.cs) (VB: [TimeZoneDataHelper.vb](./VB/App_Code/TimeZoneDataHelper.vb))
+* [Default.aspx](./CS/Default.aspx) (VB: [Default.aspx.vb](./VB/Default.aspx.vb))
+* [Default.aspx.cs](./CS/Default.aspx.cs) (VB: [Default.aspx.vb](./VB/Default.aspx.vb))
+<!-- default file list end -->
 # ASPxGridView - How to edit a DateTimeOffset column
 
 
